@@ -1,2 +1,3 @@
-# DNA-Analysis
-This repo is a copy of a project I did on Codecademy
+# Simple Sentence Encrypter
+This repo is a copy of a project I did on Codecademy.
+
